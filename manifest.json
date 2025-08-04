@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-AI-description",
+    "name": "AI Description ",
+    "version": "1.0.0",
+    "minAppVersion": "1.4.0",
+    "description": "使用AI模型为Obsidian文档生成摘要并添加到Front Matter中",
+    "author": "Xlenco",
+    "authorUrl": "https://github.com/obsidian-AI-description",
+    "isDesktopOnly": false
+}
